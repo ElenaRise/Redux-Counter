@@ -40,5 +40,8 @@
     "gulp-sass": "^4.0.2",
     "gulp-util": "^3.0.8",
     "node-notifier": "^5.4.3"
+  },
+  "dependencies": {
+    "redux": "^4.0.5"
   }
 }
